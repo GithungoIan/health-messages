@@ -1,0 +1,6 @@
+Django
+djangorestframework
+africastalking
+phonenumbers
+schedule
+gunicorn
